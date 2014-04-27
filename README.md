@@ -1,3 +1,8 @@
+## Forked Copy
+This is a forked copy of the original ProgrammingAssignment2 repository. 
+The 'cachematrix.R' file has the working copy of the programming assignment 2.
+
+## Assignment Information
 ### Introduction
 
 This second programming assignment will require you to write an R
