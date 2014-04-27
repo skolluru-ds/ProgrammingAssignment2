@@ -1,7 +1,7 @@
 ## Forked Copy
 This is a forked copy of the original ProgrammingAssignment2 repository. 
 The 'cachematrix.R' file has the working copy of the programming assignment 2.
-The 'TestResults.R' file should show the commands used to test the code.
+The 'TestResults.txt' file should show the commands used to test the code.
 
 ## Assignment Information
 ### Introduction
